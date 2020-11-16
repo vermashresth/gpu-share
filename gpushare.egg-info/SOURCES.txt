@@ -1,0 +1,8 @@
+README.md
+setup.py
+gpushare/__init__.py
+gpushare/gpushare.py
+gpushare.egg-info/PKG-INFO
+gpushare.egg-info/SOURCES.txt
+gpushare.egg-info/dependency_links.txt
+gpushare.egg-info/top_level.txt

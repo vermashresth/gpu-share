@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: gpushare
+Version: 0.0.1
+Summary: A package tomana declare, manage and analyse shared GPU resources within a team
+Home-page: https://github.com/vermashresth/gpu-share
+Author: Shresth Verma
+Author-email: vermashresth@gmail.com
+License: UNKNOWN
+Description: # gpu-share-lab
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
